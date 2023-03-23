@@ -4,5 +4,5 @@ public class simple
   {
     sysytem .out.println(chang by Ratanchand
 );
-  }
+  };
 }
